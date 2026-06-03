@@ -1,16 +1,34 @@
-## Hi there 👋
+# Tanzeem Ahmed Sakib
 
-<!--
-**tanzeemsakib/tanzeemsakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graphic designer and visual artist based in Dhaka, Bangladesh.  
+Working across branding, illustration, motion & UI — available for freelance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+- 🌐 [Portfolio](https://tanzeemsakib.github.io)
+- 🎨 [Behance](https://www.behance.net/tanzeemsakib)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanzeemsakib)
+- 🎮 [itch.io](https://tanzeem-ahmed-sakib.itch.io)
+
+---
+
+## Disciplines & Tools
+
+**Design** — Brand Identity · Illustration · Motion · UI/UX · Packaging  
+**Tools** — Illustrator · Photoshop · After Effects · Figma · Blender · Godot
+
+---
+
+## Currently
+
+- Interning at **BJIT Group LTD.** — Branding & IR/PR team
+- Working on a UX case study redesigning the Bangladesh National Museum app
+
+---
+
+## On the controller
+
+- 🕹️ Now playing — *Yakuza 0*
+- ❤️ All-time — *Guilty Gear X2 #Reload*, *Disco Elysium*, *Monster Hunter: World*, *Dark Souls*
