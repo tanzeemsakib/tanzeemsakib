@@ -30,7 +30,7 @@ Working across branding, illustration, motion & UI — available for freelance.
     <td width="50%" valign="top">
       <h3><img src="https://img.shields.io/badge/-1a2fff?style=flat-square&logo=googlechrome&logoColor=white" height="20"/> <a href="https://tanzeemsakib.github.io">tanzeemsakib.github.io</a></h3>
       <p>Personal portfolio — graphic design, illustration, motion & UI</p>
-      <br/>
+      <br/><br/>
       <a href="https://github.com/tanzeemsakib/tanzeemsakib.github.io">
         <img src="https://img.shields.io/badge/View%20Repo-1a2fff?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -56,7 +56,7 @@ Working across branding, illustration, motion & UI — available for freelance.
     <td width="50%" valign="top">
       <h3><img src="https://img.shields.io/badge/-1a2fff?style=flat-square&logo=godotengine&logoColor=white" height="20"/> <a href="https://tanzeem-ahmed-sakib.itch.io/kitchen-keep">KITCHEN KEEP</a></h3>
       <p>Game jam submission for BUET CSE FEST 2024 GAME JAM, created around the theme "Heroes Never Die"</p>
-      <br/>
+      <br/><br/>
       <a href="https://github.com/tanzeemsakib/BUETGameJam2024-DOGAMRISEN-Godot-TopDown2DReverseVampireSurvivor-MAYA">
         <img src="https://img.shields.io/badge/View%20Repo-1a2fff?style=flat-square&logo=github&logoColor=white"/>
       </a>
