@@ -1,3 +1,28 @@
+![Banner](https://raw.githubusercontent.com/tanzeemsakib/tanzeemsakib/main/banner.png)
+
+# Tanzeem Ahmed Sakib
+
+Graphic designer and visual artist based in Dhaka, Bangladesh.  
+Working across branding, illustration, motion & UI — available for freelance.
+
+---
+
+## Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a2fff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanzeemsakib.github.io)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tanzeemsakib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzeemsakib)
+[![itch.io](https://img.shields.io/badge/itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white)](https://tanzeem-ahmed-sakib.itch.io)
+
+---
+
+## Disciplines & Tools
+
+**Design** — Brand Identity · Illustration · Motion · UI/UX · Packaging  
+**Tools** — Illustrator · Photoshop · After Effects · Figma · Blender · Godot
+
+---
+
 ## Projects
 
 <table>
@@ -38,3 +63,22 @@
     </td>
   </tr>
 </table>
+
+---
+
+## Currently
+
+- Interning at **BJIT Group LTD.** — Branding & IR/PR team
+- Working on a UX case study redesigning the Bangladesh National Museum app
+
+---
+
+## On the controller
+
+<img src="https://img.shields.io/badge/Now%20Playing-Yakuza%200-1a2fff?style=flat-square&logo=playstation&logoColor=white"/>
+
+**All-time** &nbsp;
+<img src="https://img.shields.io/badge/Guilty%20Gear%20X2%20%23Reload-333?style=flat-square&logo=playstation&logoColor=white"/>
+<img src="https://img.shields.io/badge/Disco%20Elysium-333?style=flat-square&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monster%20Hunter%3A%20World-333?style=flat-square&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dark%20Souls-333?style=flat-square&logo=steam&logoColor=white"/>
