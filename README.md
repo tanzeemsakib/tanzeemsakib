@@ -21,6 +21,15 @@ Working across branding, illustration, motion & UI — available for freelance.
 
 ---
 
+## Projects
+
+- [tanzeemsakib.github.io](https://github.com/tanzeemsakib/tanzeemsakib.github.io) — Personal portfolio site
+- [BUETGameJam2023 — Team Wyvern](https://github.com/tanzeemsakib/BUETGameJam2023-TeamWyvern-Godot-3DPlatformer-FLIPNFROLIC) — 3D platformer, BUET CSE Fest Game Jam 2023
+- [BUETGameJam2024 — DOGAMRISEN](https://github.com/tanzeemsakib/BUETGameJam2024-DOGAMRISEN-Godot-TopDown2DReverseVampireSurvivor-MAYA) — Top-down reverse vampire survivor, BUET CSE Fest 2024
+- [IUTGameJam2024 — Team Dogmarisen](https://github.com/tanzeemsakib/IUTGameJam2024-TeamDogmarisen-Godot-2DTowerDefense-KITCHENKEEP) — 2D tower defense, IUT National ICT Fest 2024
+
+---
+
 ## Currently
 
 - Interning at **BJIT Group LTD.** — Branding & IR/PR team
